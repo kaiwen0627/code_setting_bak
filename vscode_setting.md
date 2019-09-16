@@ -56,7 +56,8 @@
   "editor.wordWrapColumn": 200,
   "emmet.includeLanguages": {
     "jsx-sublime-babel-tags": "javascriptreact",
-    "wxml": "html"
+    "wxml": "html",
+    "vue": "html"
   },
   "emmet.showSuggestionsAsSnippets": true,
   "emmet.syntaxProfiles": {
